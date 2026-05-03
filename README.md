@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="40" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-  <img width="40" src="https://img.icons8.com/ios/50/cursor-ai.png" alt="cursor-ai"/>
+ <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/cursor-ai.png" alt="cursor-ai"/>
 </p>
 
 ---
