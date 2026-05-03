@@ -47,7 +47,7 @@
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="<a target="_blank" href="https://icons8.com/icon/48708/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" width="40" />
+  <img src="https://icons8.com/icon/48708/github" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
