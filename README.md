@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-
+  <img width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
 </p>
 
 ---
@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://img.icons8.com/officel/80/express-js.png" alt="express-js" width="40"/>
   <img width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
+  <img width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/>
+  <img width="40"src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
 </p>
 
 ---
@@ -83,8 +85,6 @@
 
 ⭐ *“Consistency beats talent when talent doesn’t work hard.”*
 
-
-
 ## 🕰️ Previously Used / Explored
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
@@ -94,3 +94,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay_Kumar_S?theme=light&font=Alatsi&ext=contest)
