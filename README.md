@@ -34,9 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://img.icons8.com/officel/80/express-js.png" alt="express-js" width="40"/>
-  <img width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
-  <img width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/>
-  <img width="40"src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
+  
 </p>
 
 ---
@@ -44,6 +42,9 @@
 ### 🗄️ Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
+  <img width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/>
+  <img width="40"src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
 </p>
 
 ---
@@ -54,6 +55,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>
+  <img width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo"/>
+  <img width="40" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/>
+  <img width="40" src="https://brandfetch.com/codingninjas.com?view=library&library=default&collection=logos&asset=idWFV0KNts&utm_source=https%253A%252F%252Fbrandfetch.com%252Fcodingninjas.com&utm_medium=copyAction&utm_campaign=brandPageReferral"/>
+  
+  
 </p>
 
 ---
@@ -78,8 +85,8 @@
 ## 📫 Connect With Me
 
 - 📧 Email: ajaykumar.msaravana@gmail.com
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ajay-kumar-saravanakumar/)
-- 🧑‍💻 GitHub: [https://github.com/your-username](https://github.com/AjayKumarOnly/)
+- 💼 LinkedIn: [Ajay Kumar Saravanakumar](https://www.linkedin.com/in/ajay-kumar-saravanakumar/)
+- 🧑‍💻 GitHub: [AjayKumarOnly](https://github.com/AjayKumarOnly/)
 
 ---
 
@@ -95,4 +102,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay_Kumar_S?theme=light&font=Alatsi&ext=contest)
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay_Kumar_S?theme=dark&font=Alatsi&ext=contest)
