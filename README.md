@@ -6,10 +6,10 @@
 
 ## 🧠 About Me
 
-- 🎓 Currently pursuing Computer Science
-- 💡 Passionate about building scalable systems and solving real-world problems
-- 📈 Actively improving my Data Structures & Algorithms skills
-- 🛠️ Working on backend development and system-level programming
+- 🎓 Currently pursuing Computer Science at Anna University, Chennai  
+- 💡 Passionate about building scalable systems and solving real-world problems  
+- 📈 Actively improving my Data Structures & Algorithms skills  
+- 🛠️ Focused on backend development and system-level programming
 
 ---
 
@@ -20,6 +20,7 @@
 ### 💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
@@ -58,7 +59,7 @@
   <img width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>
   <img width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo"/>
   <img width="40" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/>
-  <img width="40" src="https://brandfetch.com/codingninjas.com?view=library&library=default&collection=logos&asset=idWFV0KNts&utm_source=https%253A%252F%252Fbrandfetch.com%252Fcodingninjas.com&utm_medium=copyAction&utm_campaign=brandPageReferral"/>
+<img width="40" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/>
   
   
 </p>
@@ -94,7 +95,6 @@
 
 ## 🕰️ Previously Used / Explored
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
