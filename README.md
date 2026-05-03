@@ -74,9 +74,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: your-linkedin-profile
-- 🧑‍💻 GitHub: https://github.com/your-username
+- 📧 Email: ajaykumar.msaravana@gmail.com
+- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ajay-kumar-saravanakumar/)
+- 🧑‍💻 GitHub: [https://github.com/your-username](https://github.com/AjayKumarOnly/)
 
 ---
 
